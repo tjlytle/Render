@@ -14,5 +14,6 @@
     },
     "autoload": {
         "files": ["src/Render.php"]
-    }
+    },
+    "keywords": ["view", "template", "templating", "renderer"]
 }
