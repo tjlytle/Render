@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tjlytle/Render.png?branch=master)](https://travis-ci.org/tjlytle/Render)
+
 Render
 ======
 A *very* simple rendered for PHP based templates.  **Not** a template language, just a simple wrapper that handles
